@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/paul/Desktop/插件化/DroidPlugin/project/Libraries/DroidPlugin/bin/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/plugin_activity_loading.xml",
+        "source": "/Users/paul/Desktop/插件化/DroidPlugin/project/Libraries/DroidPlugin/bin/intermediates/bundles/debug/res/drawable-xxhdpi-v4/plugin_activity_loading.xml"
+    },
+    {
+        "merged": "/Users/paul/Desktop/插件化/DroidPlugin/project/Libraries/DroidPlugin/bin/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/plugin_activity_loading_bitmap.9.png",
+        "source": "/Users/paul/Desktop/插件化/DroidPlugin/project/Libraries/DroidPlugin/bin/intermediates/bundles/debug/res/drawable-xxhdpi-v4/plugin_activity_loading_bitmap.9.png"
+    }
+]
